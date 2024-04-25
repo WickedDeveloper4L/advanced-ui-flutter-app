@@ -1,6 +1,6 @@
-# advanced_ui_e_commerce
+# Minimalist 
 
-A new Flutter project.
+A minimalistic Ecommerce app with advanced Ui built with commponents based structures and theming,
 
 ## Getting Started
 
